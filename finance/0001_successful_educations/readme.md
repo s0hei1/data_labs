@@ -1,0 +1,3 @@
+Note: Let's collaborate to make this dataset bigger! Connect with me if you're interested.
+
+The “Educational Backgrounds of Successful People” dataset brings together comprehensive academic profiles for over 30 distinguished figures across entrepreneurship, science, politics, entertainment, sports, and activism. Each record captures the individual’s highest completed degree (or enrollment status), field of study, awarding institution, graduation year, location, institutional ranking, academic performance, and notable scholarships or honors. By aggregating these educational trajectories in one structured CSV, the dataset enables clear, cross‑comparable insights into the academic foundations behind world‑renowned achievement.
